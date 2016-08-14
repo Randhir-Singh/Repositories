@@ -6,3 +6,6 @@ adding second line in remote repo. it will be synced to local repo.
 
 
 -- added this line in git hub web ui in new branch 1
+
+
+--Adding this line in branch 1 locally. Now merging with master branch..
