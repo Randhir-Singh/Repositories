@@ -1,1 +1,3 @@
 this is first local git hub file....
+
+adding second line in remote repo. it will be synced to local repo
