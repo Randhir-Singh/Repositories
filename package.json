@@ -1,0 +1,19 @@
+{
+  "name": "npmtutorial",
+  "version": "1.0.0",
+  "description": "publishing first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randhir-Singh/Repositories.git"
+  },
+  "author": "Randhir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randhir-Singh/Repositories/issues"
+  },
+  "homepage": "https://github.com/Randhir-Singh/Repositories#readme"
+}
